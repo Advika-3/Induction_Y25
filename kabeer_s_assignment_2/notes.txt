@@ -11,3 +11,6 @@ password found is MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 Level 3 : CD to inhere directory. then list all with the option -a.
 again, knew this for some reason
 password found is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+Level 4 : just cat all the files one by one
+password found is 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
